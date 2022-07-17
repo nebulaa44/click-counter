@@ -51,7 +51,10 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-./build/*
+build/
+builddir/
 
 # convience script used for testing
 Makefile
+
+.vscode/
