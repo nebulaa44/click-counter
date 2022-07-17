@@ -58,3 +58,6 @@ builddir/
 Makefile
 
 .vscode/
+
+# convience script for testing
+build.sh
