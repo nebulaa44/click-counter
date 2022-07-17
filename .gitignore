@@ -51,4 +51,7 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-./bin/*
+./build/*
+
+# convience script used for testing
+Makefile

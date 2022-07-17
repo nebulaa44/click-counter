@@ -7,4 +7,4 @@ all:
 	$(CC) $(LIBS) $(SOURCES) -o $(TARGET)
 
 run:
-	$(TARGET)
+	meson build && ninja -C build && ./build/clickcounter
